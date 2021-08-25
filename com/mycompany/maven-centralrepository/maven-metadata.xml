@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mycompany</groupId>
+  <artifactId>maven-centralrepository</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210825143738</lastUpdated>
+  </versioning>
+</metadata>
